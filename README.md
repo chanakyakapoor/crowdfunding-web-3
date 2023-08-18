@@ -37,14 +37,18 @@ Welcome to the Crowdfunding Platform repository! This project aims to provide a 
     yarn install 
     ```
     or
-    ```npm install```
+    ```
+    npm install
+    ```
 
 4. Start the Development Server:
     ```bash
     yarn dev 
     ```
     or
-    ```npm run dev```
+    ```
+    npm run dev
+    ```
 
 ## Acknowledgements
 
