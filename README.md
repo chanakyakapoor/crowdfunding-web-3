@@ -11,10 +11,10 @@ Welcome to the Crowdfunding Platform repository! This project aims to provide a 
 
 ## Demo Images
 
-![HomePage](C:\Users\CHANAKYA\Documents\project_crowdfunding\client\src\assets\main.png)
-![Transaction](C:\Users\CHANAKYA\Documents\project_crowdfunding\client\src\assets\transaction.png)
-![CampaignPage](C:\Users\CHANAKYA\Documents\project_crowdfunding\client\src\assets\campaign_page.png)
-![Donators](C:\Users\CHANAKYA\Documents\project_crowdfunding\client\src\assets\explain.png)
+![HomePage](client/src/assets/main.png)
+![Transaction](client/src/assets/transaction.png)
+![CampaignPage](client/src/assets/campaign_page.png)
+![Donators](client/src/assets/explain.png)
 
 ## Prerequisites
 
@@ -34,11 +34,17 @@ Welcome to the Crowdfunding Platform repository! This project aims to provide a 
 
 3. Install dependencies using Yarn or npm:
     ```bash
-    yarn install or npm install
+    yarn install 
+    ```
+    or
+    ```npm install```
 
 4. Start the Development Server:
     ```bash
-    yarn dev or npm run dev
+    yarn dev 
+    ```
+    or
+    ```npm run dev```
 
 ## Acknowledgements
 
